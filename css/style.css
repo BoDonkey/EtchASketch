@@ -1,5 +1,14 @@
+#here_table {
+	margin: 1px; padding: 0px;
+	width: 1px; height: 1px;
+	background-color: white;
+}
 div {
 	margin: 1px; padding: 0px;
-	width: 10px; height: 5px;
-	background-color: green;
+	width: 60px; height: 40px;
+	background-color: orange;
+}
+
+table > .blue {
+	background-color: blue;
 }
